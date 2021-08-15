@@ -4,4 +4,4 @@
 
 ![Anurag's GitHub stats](https://stat-rvdrover.vercel.app/api?username=rvdrover&count_private=true&show_icons=true&theme=tokyonight)
 
-![Readme Card](https://stat-rvdrover.vercel.app/api/pin/?username=rvdrover&repo=github-readme-stats)
+![Top Langs](https://stat-rvdrover.vercel.app/api/top-langs/?rvdrover=rvdrover&layout=compact)
