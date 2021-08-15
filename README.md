@@ -7,4 +7,4 @@
 ![Top Langs](https://stat-rvdrover.vercel.app/api/top-langs/?username=rvdrover&layout=compact&theme=tokyonight)
 
 
-![willianrod's wakatime stats](https://stat-rvdrover.vercel.app/api/wakatime?username=rvdrover&layout=compact&theme=tokyonight)
+![willianrod's wakatime stats](https://stat-rvdrover.vercel.app/api/wakatime?username=rvdrover&layout=compact)
